@@ -16,6 +16,6 @@ class Song
     artist = self.artist
   end
 
-  
+
 
 end
