@@ -8,10 +8,10 @@ class Song
     @@all << self
   end
 
-  # def self.all
-  #   @@all
-  # end
-  #
+  def self.all
+    @@all
+  end
+  
   # def artist
   #   artist = self.artist
   # end
