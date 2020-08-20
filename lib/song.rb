@@ -12,4 +12,10 @@ class Song
     @@all
   end
 
+  def artist
+    artist = self.artist
+  end
+
+  
+
 end
